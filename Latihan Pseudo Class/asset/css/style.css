@@ -1,0 +1,33 @@
+table {
+    border-collapse: collapse;
+    font-family: verdana;
+}
+
+table tr:first-child{
+    width: 50px;
+}
+
+table tbody td {
+    width: 100px;
+    border-bottom: 1px solid white;
+}
+
+table tbody tr:nth-child(odd) {
+    background-color: #81cfe0;
+    color: white;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #81cfe0;
+    color: white;
+}
+
+table tbody tr:nth-child(odd):hover {
+    background-color: palevioletred;
+    color: black;
+}
+
+table tbody tr:nth-child(even):hover{
+    background-color: palevioletred;
+    color: black;
+}

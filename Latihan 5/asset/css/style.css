@@ -1,0 +1,21 @@
+/* CONTOH METODE LINK STYLE/EKSTERNAL STYLE */
+h1 {
+    color: lightblue;
+    font-family: arial;
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    text-indent: 30px;
+    line-height: 1.5;
+    font-size: 16px;
+    color: royalblue;
+    font-family: verdana;
+}
+
+li {
+    color: cornflowerblue;
+    font-size: 12px;
+    font-family: cursive;
+}

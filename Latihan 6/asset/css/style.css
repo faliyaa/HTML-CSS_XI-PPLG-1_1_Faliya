@@ -1,0 +1,9 @@
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+
+    /* Menengahkan gambar */
+    display: block;
+    margin: 0px auto 0px auto;
+}
